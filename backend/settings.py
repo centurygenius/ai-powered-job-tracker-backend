@@ -33,7 +33,7 @@ SECRET_KEY = 'django-insecure-#+urcw9ug(53=f&rx9t#f@q)nld&6f%+@u1il8rtw=lsphp!7n
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["ai-powered-job-tracker-backend.onrender.com", "127.0.0.1", "localhost"]
 
 
 # Application definition
