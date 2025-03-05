@@ -186,6 +186,7 @@ CORS_ALLOWED_ORIGINS = [
     "https://ai-powered-job-application-tracker.vercel.app",
     "https://ai-powered-job-application-tracker-rg1u13zdr.vercel.app",
     "http://localhost:5173",
+    "https://ai-powered-job-tracker-frontend.onrender.com",
 ]
 
 
@@ -195,6 +196,7 @@ CSRF_TRUSTED_ORIGINS = [
     "https://ai-powered-job-application-tracker.vercel.app",
     "https://ai-powered-job-application-tracker-rg1u13zdr.vercel.app",
     "http://localhost:5173",
+    "https://ai-powered-job-tracker-frontend.onrender.com",
 ]
 
 # For custom User model
